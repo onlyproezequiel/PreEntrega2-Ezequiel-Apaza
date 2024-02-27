@@ -32,3 +32,6 @@ body{
       .color-footer{
         background-color: #343a40;
       }
+      footer i:hover {
+        color: #25b7d3;
+      }
